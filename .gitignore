@@ -20,4 +20,4 @@ Cargo.lock
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-sensitive_file_report.txt
+security_reports

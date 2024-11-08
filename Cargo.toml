@@ -7,3 +7,7 @@ edition = "2021"
 git2 = "0.19.0"
 reqwest = { version = "0.12.9", features = ["blocking"] }
 tokio = { version = "1.41.1", features = ["full"] }
+walkdir = "2.5.0"
+chrono = "0.4.38"
+tempfile = "3.14.0"
+url = "2.5.3"
